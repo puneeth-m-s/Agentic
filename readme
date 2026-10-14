@@ -1,7 +1,4 @@
 From puneeth
-
-To: rohit
-
-Hai rohit how are you.
-
-
+git add filename.py
+git commit -m "Add Python file"
+git push origin main
