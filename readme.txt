@@ -11,4 +11,3 @@ git commit -m "Add project files"
 # 4. Push files to GitHub
 git push -u origin main
 ```
-
